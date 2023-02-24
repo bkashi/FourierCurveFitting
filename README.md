@@ -1,4 +1,4 @@
-# WebCurveFit
+# Fourier Curve Fitting to Discrete Data
 
 Fit functions to data beyond those in Excel: Fourier series, S-curves, user-defined.
 
